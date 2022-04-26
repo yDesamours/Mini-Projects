@@ -1,5 +1,3 @@
-import $ from "https://cdn.skypack.dev/jquery@3.6.0";
-
 const colors = ['#50D299', '#1D1E22', '#282828', '#FCD000', '#0EBEFF', '#7E9576', '#FFFFFF', '#F48225', '#12fe56', '#5ac120'];
 
 $(document).ready(function(){
